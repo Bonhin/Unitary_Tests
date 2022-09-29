@@ -1,0 +1,12 @@
+C:\Users\Eduardo\Desktop\Tops Coders Safra\Codes\Turma853\Testes_Automatizados\Exercicio_1_Testes_Unitarios\Exercicio_1_Testes_Unitarios\Exercicio_1_Testes_Unitarios\bin\Debug\net6.0\Eleicoes.deps.json
+C:\Users\Eduardo\Desktop\Tops Coders Safra\Codes\Turma853\Testes_Automatizados\Exercicio_1_Testes_Unitarios\Exercicio_1_Testes_Unitarios\Exercicio_1_Testes_Unitarios\bin\Debug\net6.0\Eleicoes.dll
+C:\Users\Eduardo\Desktop\Tops Coders Safra\Codes\Turma853\Testes_Automatizados\Exercicio_1_Testes_Unitarios\Exercicio_1_Testes_Unitarios\Exercicio_1_Testes_Unitarios\bin\Debug\net6.0\Eleicoes.pdb
+C:\Users\Eduardo\Desktop\Tops Coders Safra\Codes\Turma853\Testes_Automatizados\Exercicio_1_Testes_Unitarios\Exercicio_1_Testes_Unitarios\Exercicio_1_Testes_Unitarios\obj\Debug\net6.0\Eleicoes.csproj.AssemblyReference.cache
+C:\Users\Eduardo\Desktop\Tops Coders Safra\Codes\Turma853\Testes_Automatizados\Exercicio_1_Testes_Unitarios\Exercicio_1_Testes_Unitarios\Exercicio_1_Testes_Unitarios\obj\Debug\net6.0\Eleicoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo\Desktop\Tops Coders Safra\Codes\Turma853\Testes_Automatizados\Exercicio_1_Testes_Unitarios\Exercicio_1_Testes_Unitarios\Exercicio_1_Testes_Unitarios\obj\Debug\net6.0\Eleicoes.AssemblyInfoInputs.cache
+C:\Users\Eduardo\Desktop\Tops Coders Safra\Codes\Turma853\Testes_Automatizados\Exercicio_1_Testes_Unitarios\Exercicio_1_Testes_Unitarios\Exercicio_1_Testes_Unitarios\obj\Debug\net6.0\Eleicoes.AssemblyInfo.cs
+C:\Users\Eduardo\Desktop\Tops Coders Safra\Codes\Turma853\Testes_Automatizados\Exercicio_1_Testes_Unitarios\Exercicio_1_Testes_Unitarios\Exercicio_1_Testes_Unitarios\obj\Debug\net6.0\Eleicoes.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Desktop\Tops Coders Safra\Codes\Turma853\Testes_Automatizados\Exercicio_1_Testes_Unitarios\Exercicio_1_Testes_Unitarios\Exercicio_1_Testes_Unitarios\obj\Debug\net6.0\Eleicoes.dll
+C:\Users\Eduardo\Desktop\Tops Coders Safra\Codes\Turma853\Testes_Automatizados\Exercicio_1_Testes_Unitarios\Exercicio_1_Testes_Unitarios\Exercicio_1_Testes_Unitarios\obj\Debug\net6.0\refint\Eleicoes.dll
+C:\Users\Eduardo\Desktop\Tops Coders Safra\Codes\Turma853\Testes_Automatizados\Exercicio_1_Testes_Unitarios\Exercicio_1_Testes_Unitarios\Exercicio_1_Testes_Unitarios\obj\Debug\net6.0\Eleicoes.pdb
+C:\Users\Eduardo\Desktop\Tops Coders Safra\Codes\Turma853\Testes_Automatizados\Exercicio_1_Testes_Unitarios\Exercicio_1_Testes_Unitarios\Exercicio_1_Testes_Unitarios\obj\Debug\net6.0\ref\Eleicoes.dll
